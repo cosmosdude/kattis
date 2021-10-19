@@ -7,6 +7,7 @@ using namespace std;
 
 void process(int c) {
 	int n; cin >> n;
+	
 	vector<int> num;
 	vector<int> val;
 
