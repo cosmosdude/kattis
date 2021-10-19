@@ -14,7 +14,7 @@ int main() {
 		printf(
 			"%0.10f %0.10f\n", 
 			M_PI*pow(r,2),
-			pow(r,2) * 4 * c/m
+			pow(r*2.f,2) * c/m
 		);
 		cin >> r >> m >> c;
 	}
