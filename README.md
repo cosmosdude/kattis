@@ -5,5 +5,5 @@ Personal **open.kattis.com** answers
 
 | | |
 |-|-|
-|Score| `285.8`|
+|Score| `341.5`|
 |Max Elo:| *5.0* |
